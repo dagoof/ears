@@ -1,3 +1,7 @@
+/*
+Package ears exposes a few ways of wrapping errors to make them easier to
+collect and interpret across multiple goroutines.
+*/
 package ears
 
 import (
